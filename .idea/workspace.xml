@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d3c1adb-d207-4261-b1a1-a87eb850009a" name="更改" comment="部分修改">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/cilixiongp.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/cilixiongp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsm.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsm2.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/XBPQ.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/XBPQ.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/alishare.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/alishare.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar.md5" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +37,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240426-2316/jsm.json",
+    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240505-2304/jsm.json",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240426-2316/jsm.json",
+    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240505-2304/jsm.json",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -85,15 +91,9 @@
       <workItem from="1713277289557" duration="79000" />
       <workItem from="1713493116687" duration="972000" />
       <workItem from="1713514867218" duration="268000" />
-      <workItem from="1714201465984" duration="267000" />
-    </task>
-    <task id="LOCAL-00008" summary="部分修改">
-      <option name="closed" value="true" />
-      <created>1711900775992</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1711900775992</updated>
+      <workItem from="1714201465984" duration="293000" />
+      <workItem from="1714324574728" duration="68000" />
+      <workItem from="1714925022154" duration="962000" />
     </task>
     <task id="LOCAL-00009" summary="部分修改">
       <option name="closed" value="true" />
@@ -479,7 +479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714201640444</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1714201748267</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1714201748267</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
