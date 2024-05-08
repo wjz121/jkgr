@@ -730,7 +730,7 @@
 				"aliToken": "tvfan/token.txt",
 				"quarkCookie": "tvfan/cookie.txt",
 				"from": "4k|auto|fhd",
-				"siteUrl": "https://api.wogg.xyz/",
+				"siteUrl": "https://wogg.xyz/",
 				"danMu": "弹"
 			},
 			"jar": "./lib/fan.txt"
