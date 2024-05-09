@@ -85,6 +85,7 @@
 			"name": "哔滴┃磁力",
 			"api": "csp_Bdys01",
 			"type": 3,
+			"filterable": 1,
 			"searchable":0,
 			"quickSearch": 1,
 			"searchable": 1,
@@ -711,12 +712,13 @@
 		},
 		{
 			"key": "短剧",
-			"name": "短剧",
+			"name": "🌈上头┃短剧",
 			"type": 3,
-			"api": "csp_Duanju",
-			"searchable": 0,
+			"api": "csp_Djuu",
+			"searchable": 1,
+			"quickSearch": 1,
 			"changeable": 1,
-			"ext":"https://www.duanjutv.icu"
+			"jar": "./lib/fan.txt"
 		},
 		{
 			"key": "玩偶",
@@ -1040,14 +1042,6 @@
 			"playerType": "2",
 			"ext": "https://www.voflix.me/",
 			"jar": "./lib/PandaQ240222.jar"
-		},
-		{
-			"key": "种子短剧",
-			"name": "🍒┃短剧┃种子",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/种子短剧.js",
-			"playerType": 2
 		},
 		{"key":"js_i275听书","name":"📚️听书┃i275","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/i275.js"},
 		{"key":"js_博看听书","name":"📚️听书┃博看","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/bokan.js"},

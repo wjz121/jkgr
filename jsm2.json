@@ -775,15 +775,6 @@
 			"searchable": 1,
 			"changeable": 0
 		},
-		{
-			"key": "短剧",
-			"name": "短剧",
-			"type": 3,
-			"api": "csp_Duanju",
-			"searchable": 0,
-			"changeable": 1,
-			"ext":"https://www.duanjutv.icu"
-		},
 		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
 		{
 			"key":"MV_vod",
@@ -817,6 +808,16 @@
 			"api": "csp_Yinyuetai",
 			"searchable": 1,
 			"changeable": 0
+		},
+		{
+			"key": "短剧",
+			"name": "🌈上头┃短剧",
+			"type": 3,
+			"api": "csp_Djuu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./lib/fan.txt"
 		},
 		{
 			"key": "玩偶",
@@ -1141,14 +1142,6 @@
 			"playerType": "2",
 			"ext": "https://www.voflix.me/",
 			"jar": "./lib/PandaQ240222.jar"
-		},
-		{
-			"key": "种子短剧",
-			"name": "🍒┃短剧┃种子",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/种子短剧.js",
-			"playerType": 2
 		},
 		{"key":"js_i275听书","name":"📚️听书┃i275","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/i275.js"},
 		{"key":"js_博看听书","name":"📚️听书┃博看","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/bokan.js"},

@@ -345,14 +345,6 @@
 			"jar": "./lib/PandaQ240222.jar"
 		},
 		{
-			"key": "种子短剧",
-			"name": "🍒┃短剧┃种子",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/种子短剧.js",
-			"playerType": 2
-		},
-		{
 			"key": "天天",
 			"name": "天天┃App",
 			"type": 3,
@@ -387,6 +379,16 @@
 			"ext": "https://www.yjys.me/$$$null$$$1"
 		},
 		{ "key": "YQKan", "name": "一起看", "type": 3, "api": "csp_YQKan", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 },
+		{
+			"key": "短剧",
+			"name": "🌈上头┃短剧",
+			"type": 3,
+			"api": "csp_Djuu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./lib/fan.txt"
+		},
 		{
 			"key": "索尼资源",
 			"name": "索尼┃资源",
