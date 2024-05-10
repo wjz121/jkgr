@@ -816,8 +816,7 @@
 			"api": "csp_Djuu",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./lib/fan.txt"
+			"changeable": 1
 		},
 		{
 			"key": "玩偶",
