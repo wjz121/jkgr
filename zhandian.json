@@ -38,28 +38,7 @@
 			"changeable": 1,
 			"jar": "./lib/fan.txt"
 		},
-		{
-			"key": "白嫖",
-			"name": "👻白飘┃无广",
-			"type": 3,
-			"api": "csp_BaiPiao",
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://www.baipiaoys.com:9092/",
-			"jar": "./lib/fan.txt"
-		},
 		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$proxy$$$1"},
-		{"key": "csp_XBPQ_6V",
-			"name": "🧿宇宙4K专享",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar" : "https://d.kstore.space/download/4637/jar/spider.jar;md5;f6eac2c1831ccd0215892f30c306958f",
-			"ext":"https://download.kstore.space/download/4637/lib/6v.json"},
 		{
 			"key": "火狐",
 			"name": "🦊茶杯狐",
@@ -122,7 +101,7 @@
 			"changeable": 1,
 			"ext": "null$$$1"
 		},
-		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"},
+		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"},
 		{
 			"key": "酷看",
 			"name": "💡酷看┃App",
@@ -131,27 +110,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "./lib/fan.txt"
-		},
-		{
-			"key": "77",
-			"name": "👒七七┃App",
-			"type": 3,
-			"api": "csp_Kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "./lib/fan.txt"
-		},
-		{
-			"key": "萌米",
-			"name": "👀萌米┃App",
-			"type": 3,
-			"api": "csp_AppMao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg==",
 			"jar": "./lib/fan.txt"
 		},
 		{
@@ -166,11 +124,62 @@
 			"jar": "./lib/fan.txt"
 		},
 		{
-			"key": "比特",
-			"name": "✌️️┃比特┃影视",
+			"key": "原创",
+			"name": "☀原创┃无广",
 			"type": 3,
-			"api": "csp_Bttwo",
-			"jar": "./lib/PandaQ240222.jar"
+			"api": "csp_YCyz",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./lib/fan.txt"
+		},
+		{
+			"key": "糯米",
+			"name": "🍙糯米┃秒播",
+			"type": 3,
+			"api": "csp_Nmys",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json",
+			"jar": "./lib/fan.txt"
+		},
+		{
+			"key": "小点",
+			"name": "💥小点┃多线",
+			"type": 3,
+			"api": "csp_Xdys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"jar": "./lib/fan.txt"
+		},
+		{
+			"key": "Lib",
+			"name": "🌟立播┃无广",
+			"type": 3,
+			"api": "csp_Libvio",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://www.libvio.pw/",
+			"jar": "./lib/fan.txt"
+		},
+		{
+			"key": "Auete",
+			"name": "🏝奥特┃无广",
+			"type": 3,
+			"api": "csp_Auete",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://auete.pro/",
+			"jar": "./lib/fan.txt"
 		},
 		{
 			"key": "csp_Vidhub2",
@@ -183,52 +192,6 @@
 			"jar": "./lib/PandaQ240222.jar"
 		},
 		{
-			"key": "csp_AppRZ",
-			"name": " 🕵┃忍者┃影视",
-			"type": 3,
-			"playerType": "2",
-			"api": "csp_AppRZ",
-			"ext": "http://rzys.xyz/",
-			"jar": "./lib/PandaQ240222.jar"
-		},
-		{
-			"key": "csp_Freeok",
-			"name": "️️👌┃FreeOK┃影视",
-			"type": 3,
-			"playerType": "1",
-			"api": "csp_Freeok",
-			"jar": "./lib/PandaQ240222.jar"
-		},
-		{
-			"key": "csp_Nmys",
-			"name": "🌾┃农民┃影视",
-			"type": 3,
-			"api": "csp_Nmys",
-			"playerType": "1",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://m.emsdn.cn",
-			"jar": "./lib/PandaQ240222.jar"
-		},
-		{
-			"key": "csp_Auete",
-			"name": "🦝┃Aue┃影视",
-			"type": 3,
-			"api": "csp_Auete",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "./lib/PandaQ240222.jar"
-		},
-		{
-			"key": "FreeOK",
-			"name": "️️👌┃Fre┃影视",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/FreeOK.js"
-		},
-		{
 			"key": "二懒影视",
 			"name": "🏍️┃二懒┃影视",
 			"type": 3,
@@ -237,45 +200,12 @@
 			"jar": "./lib/zdzj.jar"
 		},
 		{
-			"key": "saohuo",
-			"name": " 👗┃骚火┃影视",
-			"type": 3,
-			"playerType": "2",
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/骚火.js"
-		},
-		{
-			"key": "圣城影视",
-			"name": "🏰┃圣城┃影视",
-			"type": 3,
-			"playerType": "2",
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/SC1080.js"
-		},
-		{
-			"key": "乐乐",
-			"name": "🎡️┃乐乐┃影视",
-			"type": 1,
-			"api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
-		},
-		{
 			"key": "低端",
 			"name": "🛣┃低端┃影视",
 			"type": 3,
 			"playerType": "2",
 			"api": "./lib/drpy2.min.js",
 			"ext": "./lib/ddys.js"
-		},
-		{
-			"key": "奇优",
-			"name": " 🍩┃奇优┃影视",
-			"type": 3,
-			"playerType": "2",
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/奇优.js"
 		},
 		{
 			"key": "虎虎",
@@ -336,37 +266,11 @@
 			"jar": "http://www.wya6.cn/tz/wyog.php"
 		},
 		{
-			"key": "csp_Voflix",
-			"name": " 🎋┃Voflix┃影视",
-			"type": 3,
-			"api": "csp_Voflix",
-			"playerType": "2",
-			"ext": "https://www.voflix.me/",
-			"jar": "./lib/PandaQ240222.jar"
-		},
-		{
 			"key": "天天",
 			"name": "天天┃App",
 			"type": 3,
 			"api": "csp_TTian",
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
-		},
-		{
-			"key": "追剧",
-			"name": "追剧┃App",
-			"type": 3,
-			"api": "csp_TTian",
-			"ext": "http://app.kzjtv.com$$$null$$$1"
-		},
-		{
-			"key": "賤賤",
-			"name": "荐片",
-			"type": 3,
-			"api": "csp_Jianpian",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "./lib/jianpian.json$$$1",
-			"timeout":60
 		},
 		{
 			"key": "Bdys_spider",

@@ -636,6 +636,18 @@
 			"jar": "./lib/fan.txt"
 		},
 		{
+			"key": "糯米",
+			"name": "🍙糯米┃秒播",
+			"type": 3,
+			"api": "csp_Nmys",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json",
+			"jar": "./lib/fan.txt"
+		},
+		{
 			"key": "小点",
 			"name": "💥小点┃多线",
 			"type": 3,
@@ -742,27 +754,6 @@
 			"jar": "./lib/PandaQ240222.jar"
 		},
 		{
-			"key": "csp_AppRZ",
-			"name": " 🕵┃忍者┃影视",
-			"type": 3,
-			"playerType": "2",
-			"api": "csp_AppRZ",
-			"ext": "http://rzys.xyz/",
-			"jar": "./lib/PandaQ240222.jar"
-		},
-		{
-			"key": "csp_Nmys",
-			"name": "🌾┃农民┃影视",
-			"type": 3,
-			"api": "csp_Nmys",
-			"playerType": "1",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://m.emsdn.cn",
-			"jar": "./lib/PandaQ240222.jar"
-		},
-		{
 			"key": "Auete",
 			"name": "🏝奥特┃无广",
 			"type": 3,
@@ -783,37 +774,12 @@
 			"jar": "./lib/zdzj.jar"
 		},
 		{
-			"key": "saohuo",
-			"name": " 👗┃骚火┃影视",
-			"type": 3,
-			"playerType": "2",
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/骚火.js"
-		},
-		{
-			"key": "乐乐",
-			"name": "🎡️┃乐乐┃影视",
-			"type": 1,
-			"api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
-		},
-		{
 			"key": "低端",
 			"name": "🛣┃低端┃影视",
 			"type": 3,
 			"playerType": "2",
 			"api": "./lib/drpy2.min.js",
 			"ext": "./lib/ddys.js"
-		},
-		{
-			"key": "奇优",
-			"name": " 🍩┃奇优┃影视",
-			"type": 3,
-			"playerType": "2",
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/奇优.js"
 		},
 		{
 			"key": "虎虎",

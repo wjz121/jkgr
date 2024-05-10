@@ -849,27 +849,6 @@
 			"jar": "./lib/PandaQ240222.jar"
 		},
 		{
-			"key": "csp_AppRZ",
-			"name": " 🕵┃忍者┃影视",
-			"type": 3,
-			"playerType": "2",
-			"api": "csp_AppRZ",
-			"ext": "http://rzys.xyz/",
-			"jar": "./lib/PandaQ240222.jar"
-		},
-		{
-			"key": "csp_Nmys",
-			"name": "🌾┃农民┃影视",
-			"type": 3,
-			"api": "csp_Nmys",
-			"playerType": "1",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://m.emsdn.cn",
-			"jar": "./lib/PandaQ240222.jar"
-		},
-		{
 			"key": "二懒影视",
 			"name": "🏍️┃二懒┃影视",
 			"type": 3,
@@ -884,14 +863,6 @@
 			"playerType": "2",
 			"api": "./lib/drpy2.min.js",
 			"ext": "./lib/ddys.js"
-		},
-		{
-			"key": "奇优",
-			"name": " 🍩┃奇优┃影视",
-			"type": 3,
-			"playerType": "2",
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/奇优.js"
 		},
 		{
 			"key": "虎虎",
