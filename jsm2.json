@@ -151,7 +151,6 @@
 			"api": "csp_Bdys01",
 			"type": 3,
 			"filterable": 1,
-			"searchable":0,
 			"quickSearch": 1,
 			"searchable": 1,
 			"ext": "https://www.yjys.me/$$$null$$$1"
@@ -360,7 +359,6 @@
 			"filterable":1,
 			"jar": "./lib/XBPQ.jar",
 			"ext":{
-				"搜索链接":"https://www.bugutv.org/?cat=&s={wd}",
 				"简介":"◎简*介</p>&&</p>",
 				"线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
 				"线路标题":"磁力",
