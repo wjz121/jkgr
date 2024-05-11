@@ -671,6 +671,16 @@
 			"jar": "./lib/fan.txt"
 		},
 		{
+			"key": "短剧",
+			"name": "🌈上头┃短剧",
+			"type": 3,
+			"api": "csp_Djuu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./lib/fan.txt"
+		},
+		{
 			"key": "火狐",
 			"name": "🦊茶杯狐",
 			"type": 1,
