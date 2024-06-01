@@ -138,6 +138,7 @@
 		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"Gaoqing","name":"中国高清网|网盘","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"},
+		{"key":"Yinfans","name":"音范丝|磁力","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"},
 		{"key":"ddys","name":"低端影视|网盘","type":3,"api":"csp_Ddys","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"},
 		{"key":"Xinshijue","name":"新视觉|网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$proxy$$$1"},
@@ -151,9 +152,11 @@
 			"api": "csp_Bdys01",
 			"type": 3,
 			"filterable": 1,
+			"searchable":1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"ext": "https://www.yjys.me/$$$null$$$1"
+			"timeout":60,
+			"ext": "./lib/tokenm.json$$$https://www.yjys.me/$$$proxy$$$1"
 		},
 		{"key":"YunPan","name":"云盘资源|网盘","type":3,"api":"csp_YunPan","timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
 		{"key":"YingSo","name":"影搜|网盘搜索","type":3,"api":"csp_YingSo","timeout":60, "ext":"./lib/tokenm.json"},
@@ -311,6 +314,20 @@
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
 		{
+			"key": "迅雷8",
+			"name": "迅雷吧|XBPQ|磁力",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "./lib/XBPQ.jar",
+			"ext": {
+				"播放数组": "copylink&&</a>",
+				"播放链接": "alt=\"&&\"",
+				"简介": "b1f40f7888\"&&</p>",
+				"分类url": "https://xunlei8.cc/{cateId}-{class}-{year}-{area}-hot-{catePg}-30.html",
+				"分类": "电视剧$tv#电影$list"
+			}
+		},
+		{
 			"key": "小白",
 			"name": "🧲 4小白磁力🧲 |XBPQ",
 			"type": 3,
@@ -351,6 +368,7 @@
 			"filterable":1,
 			"jar": "./lib/XBPQ.jar",
 			"ext":{
+				"搜索链接":"https://www.bugutv.org/?cat=&s={wd}",
 				"简介":"◎简*介</p>&&</p>",
 				"线路数组":"entry-content u-text-format u-clearfix&&\"content-template",
 				"线路标题":"磁力",
@@ -461,6 +479,14 @@
 				"ratio": 1.1
 			}
 		},
+		{
+			"key": "JustLive",
+			"name": "JustLive",
+			"type": 3,
+			"api": "csp_JustLive",
+			"searchable": 1,
+			"changeable": 0
+		},
 		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 		{"key":"BLSGod","name":"BLSGod|磁","type":3,"api":"csp_BLSGod","changeable":1, "timeout":60},
 		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
@@ -476,7 +502,7 @@
 			"changeable": 0,
 			"filterable": 1
 		},
-		{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
+		{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
 		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
 		{
 			"key": "獨播",
@@ -564,6 +590,24 @@
 			"searchable": 1,
 			"changeable": 0
 		},
+		{
+			"key": "愛看",
+			"name": "愛看",
+			"type": 3,
+			"api": "./js/ikanbot_open.js",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "短剧",
+			"name": "短剧",
+			"type": 3,
+			"api": "csp_Duanju",
+			"searchable": 0,
+			"changeable": 1,
+			"ext":"https://www.duanjutv.icu"
+		},
+		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
 		{
 			"key":"MV_vod",
 			"name":"电视┃MTV",
