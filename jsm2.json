@@ -758,18 +758,6 @@
 				"欧美动漫"
 			]
 		},
-		{"key":"私密影院","name":"私密影院","type":1,"api":"https://simiyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-		{
-			"key": "Czsapp",
-			"name": "📔厂长┃直连",
-			"type": 3,
-			"api": "csp_Czsapp",
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://www.czys.top/"
-		},
 		{
 			"key": "drpy_js_在线之家",
 			"name": "影视 | 在线之家[js]",

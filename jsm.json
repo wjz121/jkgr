@@ -693,7 +693,7 @@
 			"ext":"https://www.duanjutv.icu"
 		},
 		{
-			"key": "短剧",
+			"key": "短剧2",
 			"name": "🌈上头┃短剧",
 			"type": 3,
 			"api": "csp_Djuu",
@@ -704,7 +704,7 @@
 		},
 		{
 			"key": "玩偶",
-			"name": "👽玩偶哥哥┃阿里&夸克",
+			"name": "👽玩偶哥哥",
 			"type": 3,
 			"api": "csp_WoGG",
 			"searchable": 1,
