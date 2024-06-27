@@ -812,8 +812,18 @@
 			"changeable": 0
 		},
 		{
+			"key": "短剧2",
+			"name": "🌈上头┃短剧",
+			"type": 3,
+			"api": "csp_Djuu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
+		},
+		{
 			"key": "玩偶",
-			"name": "👽玩偶哥哥┃4K弹幕",
+			"name": "👽玩偶哥哥",
 			"type": 3,
 			"api": "csp_WoGG",
 			"searchable": 1,
@@ -823,10 +833,10 @@
 				"aliToken": "tvfan/token.txt",
 				"quarkCookie": "tvfan/cookie.txt",
 				"from": "4k|auto|fhd",
-				"siteUrl": "https://www..wogg.net/",
+				"siteUrl": "https://www.wogg.link/",
 				"danMu": "弹"
 			},
-			"jar": "./lib/fan.txt"
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "苹果",
@@ -836,7 +846,18 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "./lib/fan.txt"
+			"jar": "./lib/fty.jar"
+		},
+		{
+			"key": "酷看",
+			"name": "💡酷看┃秒播",
+			"type": 3,
+			"api": "csp_Kkys",
+			"timeout": 15,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "原创",
@@ -847,19 +868,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"jar": "./lib/fan.txt"
-		},
-		{
-			"key": "糯米",
-			"name": "🍙糯米┃秒播",
-			"type": 3,
-			"api": "csp_Nmys",
-			"timeout": 15,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json",
-			"jar": "./lib/fan.txt"
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "小点",
@@ -870,19 +879,68 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1,
-			"jar": "./lib/fan.txt"
+			"jar": "./lib/fty.jar"
 		},
 		{
-			"key": "Lib",
-			"name": "🌟立播┃无广",
+			"key": "Zx4k",
+			"name": "🚝专线┃秒播",
 			"type": 3,
-			"api": "csp_Libvio",
+			"api": "csp_Zx4k",
+			"timeout": 15,
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
+		},
+		{
+			"key": "视觉",
+			"name": "👓视觉┃多线",
+			"type": 3,
+			"api": "csp_Xinsj",
 			"timeout": 15,
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.libvio.pw/",
-			"jar": "./lib/fan.txt"
+			"ext": "https://www.6080yy3.com/",
+			"jar": "./lib/fty.jar"
+		},
+		{
+			"key": "蛋蛋",
+			"name": "🍓蛋蛋┃多线",
+			"type": 3,
+			"api": "csp_Cddys",
+			"timeout": 15,
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
+		},
+		{
+			"key": "文采",
+			"name": "💮文采┃秒播",
+			"type": 3,
+			"api": "csp_Jpys",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
+		},
+		{
+			"key": "Lib",
+			"name": "🌟立播┃秒播",
+			"type": 3,
+			"api": "csp_Libvio",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"ext": {
+				"quarkCookie": "tvfan/cookie.txt",
+				"from": "4k|auto|fhd",
+				"jar": "./lib/fty.jar"
+			}
 		},
 		{
 			"key": "短剧",
