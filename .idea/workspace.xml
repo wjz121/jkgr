@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dead0bf-a5bb-4860-b741-c1ffc5cba83a" name="更改" comment="部分修改">
+      <change afterPath="$PROJECT_DIR$/lib/aliproxy.32.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/aliproxy.32.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ucshare.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV.json" beforeDir="false" afterPath="$PROJECT_DIR$/XPTV.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsm.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsm2.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/XBPQ.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/XBPQ.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bttt.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bttt.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/wgcf.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wgcf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/115share.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/115share.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/aliproxy.gz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/aliproxy.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/alishare.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/alishare.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fty.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fty.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/quarkshare.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/quarkshare.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,21 +31,25 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2gHIe8uU4QI3W7E7u0sxpxHUwFg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240530-1542/jsm.json",
+    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240813-1321/jsm.json",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240530-1542/jsm.json",
+    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240813-1321/jsm.json",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,7 +72,29 @@
       <workItem from="1715348172842" duration="5000" />
       <workItem from="1715349047320" duration="307000" />
       <workItem from="1715436182421" duration="1317000" />
-      <workItem from="1717223276025" duration="414000" />
+      <workItem from="1717223276025" duration="540000" />
+      <workItem from="1717224367523" duration="167000" />
+      <workItem from="1717996330370" duration="220000" />
+      <workItem from="1717997629789" duration="134000" />
+      <workItem from="1717998197531" duration="451000" />
+      <workItem from="1718096148828" duration="546000" />
+      <workItem from="1718867371648" duration="974000" />
+      <workItem from="1718869597634" duration="979000" />
+      <workItem from="1718871357085" duration="645000" />
+      <workItem from="1719469228378" duration="846000" />
+      <workItem from="1719470519947" duration="262000" />
+      <workItem from="1721874482904" duration="1413000" />
+      <workItem from="1721875929377" duration="254000" />
+      <workItem from="1722669145579" duration="188000" />
+      <workItem from="1722669475948" duration="2146000" />
+      <workItem from="1722826493950" duration="1625000" />
+      <workItem from="1722828436607" duration="274000" />
+      <workItem from="1722828719858" duration="250000" />
+      <workItem from="1722828985750" duration="346000" />
+      <workItem from="1722829602157" duration="86000" />
+      <workItem from="1722833731127" duration="93000" />
+      <workItem from="1722834022131" duration="519000" />
+      <workItem from="1723534499803" duration="486000" />
     </task>
     <task id="LOCAL-00002" summary="部分修改">
       <option name="closed" value="true" />
@@ -89,13 +120,153 @@
       <option name="project" value="LOCAL" />
       <updated>1715437477961</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1717223707910</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717223707910</updated>
+    </task>
+    <task id="LOCAL-00006" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1717224520399</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717224520399</updated>
+    </task>
+    <task id="LOCAL-00007" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1717996514971</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717996514971</updated>
+    </task>
+    <task id="LOCAL-00008" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1717997692268</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717997692268</updated>
+    </task>
+    <task id="LOCAL-00009" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1717998409563</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717998409563</updated>
+    </task>
+    <task id="LOCAL-00010" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1718096660659</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718096660659</updated>
+    </task>
+    <task id="LOCAL-00011" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1718096689179</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718096689179</updated>
+    </task>
+    <task id="LOCAL-00012" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1718868114448</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718868114448</updated>
+    </task>
+    <task id="LOCAL-00013" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1718869641619</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718869641619</updated>
+    </task>
+    <task id="LOCAL-00014" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1719469972724</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719469972724</updated>
+    </task>
+    <task id="LOCAL-00015" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1719470773773</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719470773773</updated>
+    </task>
+    <task id="LOCAL-00016" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1721875670049</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721875670049</updated>
+    </task>
+    <task id="LOCAL-00017" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1722669312894</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1722669312894</updated>
+    </task>
+    <task id="LOCAL-00018" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1722671930901</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1722671930901</updated>
+    </task>
+    <task id="LOCAL-00019" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1722827403156</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1722827403156</updated>
+    </task>
+    <task id="LOCAL-00020" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1722833808898</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1722833808898</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="部分修改" />
     <option name="LAST_COMMIT_MESSAGE" value="部分修改" />
   </component>
