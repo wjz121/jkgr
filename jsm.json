@@ -332,7 +332,8 @@
 			"api": "csp_Anime1",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "巴士",

@@ -475,12 +475,14 @@
 			]
 		},
 		{
-			"key": "櫻花",
-			"name": "櫻花",
+			"key": "Anime1",
+			"name": "🐾日本┃动漫",
 			"type": 3,
-			"api": "csp_Ying",
+			"api": "csp_Anime1",
 			"searchable": 1,
-			"changeable": 0
+			"quickSearch": 1,
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "巴士",
