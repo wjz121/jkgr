@@ -5,19 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dead0bf-a5bb-4860-b741-c1ffc5cba83a" name="更改" comment="部分修改">
-      <change afterPath="$PROJECT_DIR$/lib/aliproxy.32.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/aliproxy.32.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ucshare.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsm.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsm2.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm2.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/115share.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/115share.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/aliproxy.32.gz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.32.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/aliproxy.32.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.32.md5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/aliproxy.gz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/aliproxy.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.md5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/alishare.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/alishare.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/clash2singbox.gz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/clash2singbox.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/clash2singbox.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/clash2singbox.md5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/fty.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fty.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/quarkshare.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/quarkshare.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar.md5" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +45,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240813-1321/jsm.json",
+    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240909-1448/jsm.json",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240813-1321/jsm.json",
+    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20240909-1448/jsm.json",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -94,7 +95,13 @@
       <workItem from="1722829602157" duration="86000" />
       <workItem from="1722833731127" duration="93000" />
       <workItem from="1722834022131" duration="519000" />
-      <workItem from="1723534499803" duration="486000" />
+      <workItem from="1723534499803" duration="747000" />
+      <workItem from="1723535259546" duration="179000" />
+      <workItem from="1723535590711" duration="269000" />
+      <workItem from="1723538847919" duration="401000" />
+      <workItem from="1723689712471" duration="634000" />
+      <workItem from="1723902340717" duration="7000" />
+      <workItem from="1725865595426" duration="534000" />
     </task>
     <task id="LOCAL-00002" summary="部分修改">
       <option name="closed" value="true" />
@@ -248,7 +255,47 @@
       <option name="project" value="LOCAL" />
       <updated>1722833808898</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1723535003425</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1723535003425</updated>
+    </task>
+    <task id="LOCAL-00022" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1723535225749</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1723535225749</updated>
+    </task>
+    <task id="LOCAL-00023" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1723535640199</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1723535640199</updated>
+    </task>
+    <task id="LOCAL-00024" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1723538999150</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1723538999150</updated>
+    </task>
+    <task id="LOCAL-00025" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1723689882579</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1723689882579</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
