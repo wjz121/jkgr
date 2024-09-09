@@ -516,39 +516,6 @@
 			"changeable": 0
 		},
 		{
-			"key":"MV_vod",
-			"name":"电视┃MTV",
-			"type":1,
-			"api": "https://mv.wogg.link/mv/vod",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0
-		},
-		{
-			"key": "酷狗",
-			"name": "酷狗",
-			"type": 3,
-			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "Iktv",
-			"name": "KTV",
-			"type": 3,
-			"api": "csp_Iktv",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "Yinyuetai",
-			"name": "音悦台",
-			"type": 3,
-			"api": "csp_Yinyuetai",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
 			"key": "玩偶",
 			"name": "👽玩偶哥哥┃4K弹幕",
 			"type": 3,
@@ -561,7 +528,8 @@
 				"from": "4k|auto",
 				"siteUrl": "https://www.wogg.net/",
 				"danMu": "弹"
-			}
+			},
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "YGP",
@@ -570,7 +538,8 @@
 			"api": "csp_YGP",
 			"searchable": 0,
 			"quickSearch": 0,
-			"changeable": 0
+			"changeable": 0,
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "米搜",
@@ -583,7 +552,8 @@
 			"ext": {
 				"Cloud-drive": "tvfan/Cloud-drive.txt",
 				"from": "4k|auto"
-			}
+			},
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "抠搜",
@@ -596,7 +566,8 @@
 			"ext": {
 				"Cloud-drive": "tvfan/Cloud-drive.txt",
 				"from": "4k|auto"
-			}
+			},
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "Lib",
@@ -609,7 +580,8 @@
 			"ext": {
 				"Cloud-drive": "tvfan/Cloud-drive.txt",
 				"from": "4k|auto"
-			}
+			},
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "文采",
@@ -619,7 +591,8 @@
 			"playerType": 2,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "苹果",
@@ -628,7 +601,8 @@
 			"api": "csp_LiteApple",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "厂长",
@@ -640,7 +614,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.czys.pro/"
+			"ext": "https://www.czys.pro/",
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "热播",
@@ -652,7 +627,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+			"ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "追剧",
@@ -660,7 +636,8 @@
 			"type": 3,
 			"api": "csp_AppTT",
 			"playerType": 2,
-			"ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+			"ext": "AO7TcBkd8IPB+BwH4Qma+opv",
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "萌米",
@@ -669,7 +646,8 @@
 			"api": "csp_AppTT",
 			"timeout": 15,
 			"playerType": 1,
-			"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+			"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "南瓜",
@@ -680,7 +658,8 @@
 			"playerType": 2,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "酷看",
@@ -690,7 +669,8 @@
 			"timeout": 15,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "原创",
@@ -701,7 +681,8 @@
 			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "可可",
@@ -712,7 +693,8 @@
 			"playerType": 2,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "小点",
@@ -722,7 +704,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
+			"ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw==",
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "zxzj",
@@ -733,7 +716,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.zxzjhd.com/"
+			"ext": "https://www.zxzjhd.com/",
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "低端",
@@ -743,18 +727,8 @@
 			"playerType": "2",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1
-		},
-		{
-			"key": "贱贱",
-			"name": "🐭贱贱┃P2P",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
 			"changeable": 1,
-			"playerType": "1",
-			"api": "./lib/drpy2.min.js",
-			"ext": "./lib/jp.js"
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "Auete",
@@ -765,7 +739,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://auete.pro/"
+			"ext": "https://auete.pro/",
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "新6V",
@@ -775,7 +750,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "https://www.xb6v.com/"
+			"ext": "https://www.xb6v.com/",
+			"jar": "./lib/fty.jar"
 		},
 		{
 			"key": "短剧",
@@ -784,7 +760,8 @@
 			"api": "csp_Djtt",
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1
+			"changeable": 1,
+			"jar": "./lib/fty.jar"
 		},
 		{"key":"js_i275听书","name":"📚️听书┃i275","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/i275.js"},
 		{"key":"js_博看听书","name":"📚️听书┃博看","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/bokan.js"},
