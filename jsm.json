@@ -9,7 +9,7 @@
 			"searchable": 0,
 			"changeable": 1,
 			"indexs":1,
-			"ext": "./lib/douban.json"
+			"ext": "./lib/tokenm.json$$$./lib/douban.json"
 		},
 		{
 			"key": "网盘配置",
@@ -22,13 +22,6 @@
 			"style": {
 				"type": "rect",
 				"ratio": 1.5
-			}
-		},
-		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
-		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
 			}
 		},
 		{"key":"AliShare","name":"阿里云盘影视分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1",
@@ -136,8 +129,8 @@
 			"timeout":60,
 			"ext": "./lib/tokenm.json$$$https://www.yjys01.com/$$$proxy$$$1"
 		},
-		{"key":"TGYunPanLocal","name":"TG搜索Local|网盘搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/tokenm.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$proxy$$$1"},
-		{"key":"TGYunPan","name":"TG搜索|网盘搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"./lib/tokenm.json$$$http://127.0.0.1:9999/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$noproxy$$$1"},
+		{"key":"TGYunPanLocal","name":"TG搜索Local|网盘搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/tokenm.json$$$https://t.me/$$$oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$proxy$$$1"},
+		{"key":"TGYunPan","name":"TG搜索|网盘搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"./lib/tokenm.json$$$http://127.0.0.1:10199/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000$$$noproxy$$$1"},
 		{"key":"YunPan","name":"云盘资源|网盘","type":3,"api":"csp_YunPan","timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
 		{"key":"YingSo","name":"影搜|网盘搜索","type":3,"api":"csp_YingSo","timeout":60, "ext":"./lib/tokenm.json"},
 		{"key":"混合盘","name":"混合盘|网盘搜索","type":3,"api":"csp_HunHePan","timeout":60, "ext":"./lib/tokenm.json",
@@ -867,106 +860,6 @@
 			}
 		],
 		"parses": [
-			{
-				"name": "聚合",
-				"type": 3,
-				"url": "Demo"
-			},
-			{
-				"name": "web",
-				"type": 3,
-				"url": "Web"
-			},
-			{
-				"name":"看看",
-				"type":0,
-				"url":"https://jx.m3u8.pw/?url=",
-				"ext": {
-					"flag": [
-						"qq",
-						"腾讯",
-						"qiyi",
-						"爱奇艺",
-						"奇艺",
-						"youku",
-						"优酷",
-						"mgtv",
-						"芒果",
-						"imgo",
-						"letv",
-						"乐视",
-						"pptv",
-						"PPTV",
-						"sohu",
-						"bilibili",
-						"哔哩哔哩",
-						"哔哩"
-					],
-					"header": {
-						"User-Agent": "okhttp/4.1.0"
-					}
-				}
-			},
-			{
-				"name":"FreeOK",
-				"type":0,
-				"url":"https://play.86516.tk/OKPlayer/?url=",
-				"ext": {
-					"flag": [
-						"qq",
-						"腾讯",
-						"qiyi",
-						"爱奇艺",
-						"奇艺",
-						"youku",
-						"优酷",
-						"mgtv",
-						"芒果",
-						"imgo",
-						"letv",
-						"乐视",
-						"pptv",
-						"PPTV",
-						"sohu",
-						"bilibili",
-						"哔哩哔哩",
-						"哔哩"
-					],
-					"header": {
-						"User-Agent": "okhttp/4.1.0"
-					}
-				}
-			},
-			{
-				"name":"free",
-				"type":0,
-				"url":"https://h5.freejson.xyz/player/?url=",
-				"ext": {
-					"flag": [
-						"qq",
-						"腾讯",
-						"qiyi",
-						"爱奇艺",
-						"奇艺",
-						"youku",
-						"优酷",
-						"mgtv",
-						"芒果",
-						"imgo",
-						"letv",
-						"乐视",
-						"pptv",
-						"PPTV",
-						"sohu",
-						"bilibili",
-						"哔哩哔哩",
-						"哔哩"
-					],
-					"header": {
-						"User-Agent": "okhttp/4.1.0"
-					}
-				}
-			}
 		],
 		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 		"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
