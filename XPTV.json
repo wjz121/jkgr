@@ -152,7 +152,7 @@
 		"name": "木偶 | PAN",
 		"type": 3,
 		"api": "csp_muou",
-		"ext": "https://ghp.ci/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/muou.js"
+		"ext": "https://github.wjz121.shop/https://raw.githubusercontent.com/wjz121/jkgr/refs/heads/main/XPTV/muou_2.js"
 	},
 	{ "name": "360|点播", "type": 1, "api": "https://360zy.com/api.php/provide/vod/" },
 	{ "name": "飞刀|点播", "type": 1, "api": "http://www.feidaozy.com/api.php/provide/vod/" },
