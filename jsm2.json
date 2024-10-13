@@ -858,7 +858,7 @@
 			{
 				"name": "live1",
 				"type": 0,
-				"url": "http://127.0.0.1:10079/p/0/proxy/https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+				"url": "http://127.0.0.1:10079/p/0/proxy/https://github.wjz121.shop/https://raw.githubusercontent.com/Cyril0563/lanjing_live/refs/heads/main/TVbox_Free/LIVE/Free/HD_LIVE.txt",
 
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
@@ -895,6 +895,15 @@
 				"name": "live.local3",
 				"type": 0,
 				"url": "./lib/o_all.m3u",
+
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+			},
+			{
+				"name": "live.local4",
+				"type": 0,
+				"url": "./lib/HD_LIVE.txt",
 
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
