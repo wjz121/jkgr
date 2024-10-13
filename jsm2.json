@@ -527,6 +527,12 @@
 			"searchable": 1,
 			"changeable": 0
 		},
+		{
+			"name": "囧次元",
+			"type": 3,
+			"api": "csp_jcy",
+			"ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jcy.js"
+		},
 		{"key":"米搜","name":"🦋米盘┃搜搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar": "./lib/fan.txt"},
 		{"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar": "./lib/fan.txt"},
 		{"key":"Lib","name":"🌟立播┃秒播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar": "./lib/fan.txt"},
