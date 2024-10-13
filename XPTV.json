@@ -110,6 +110,50 @@
 		"api": "csp_apple",
 		"ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/apple.js"
 	},
+	{
+		"name": "小纸条 | PAN",
+		"type": 3,
+		"api": "csp_Gitcafe"
+	},
+	{
+		"name": "玩偶哥哥 | PAN",
+		"type": 3,
+		"api": "csp_WoGG"
+	},
+	{
+		"name": "阿里小站 | PAN",
+		"type": 3,
+		"api": "csp_pan666"
+	},
+	{
+		"name": "云盘资源 | PAN",
+		"type": 3,
+		"api": "csp_yunpan"
+	},
+	{
+		"name": "南風短劇 | PAN",
+		"type": 3,
+		"api": "csp_nanfdj",
+		"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/nanfdj.js"
+	},
+	{
+		"name": "多多影音 | PAN",
+		"type": 3,
+		"api": "csp_yydsys",
+		"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/yydsys.js"
+	},
+	{
+		"name": "蜡笔盘 | PAN",
+		"type": 3,
+		"api": "csp_labi",
+		"ext": "https://ghp.ci/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/labipan.js"
+	},
+	{
+		"name": "木偶 | PAN",
+		"type": 3,
+		"api": "csp_muou",
+		"ext": "https://ghp.ci/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/muou.js"
+	},
 	{ "name": "360|点播", "type": 1, "api": "https://360zy.com/api.php/provide/vod/" },
 	{ "name": "飞刀|点播", "type": 1, "api": "http://www.feidaozy.com/api.php/provide/vod/" },
 	{ "name": "墨斗|点播", "type": 1, "api": "https://www.mdzyapi.com/api.php/provide/vod/" },
@@ -201,16 +245,6 @@
 	{ "name": "精品资源|AV", "type": 1, "api": "https://www.jingpinx.com/api.php/provide/vod/" },
 	{ "name": "甜蜜资源|AV", "type": 1, "api": "https://timizy10.cc/api.php/provide/vod/" },
 	{ "name": "草榴资源|AV", "type": 1, "api": "https://www.caoliuzyw.com/api.php/prodao/vod/" },
-	{ "name": "老色逼资源|AV", "type": 1, "api": "https://apilsbzy1.com/api.php/provide/vod/" },
-	{ "name": "小纸条|网盘", "type": 3, "api": "csp_Gitcafe" },
-	{ "name": "玩偶哥哥|网盘", "type": 3, "api": "csp_WoGG" },
-	{ "name": "阿里小站|网盘", "type": 3, "api": "csp_pan666" },
-	{ "name": "云盘资源|网盘", "type": 3, "api": "csp_yunpan" },
-	{
-		"name": "南風短劇 | PAN",
-		"type": 3,
-		"api": "csp_nanfdj",
-		"ext": "https://git.886.be/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/nanfdj.js"
-	}
+	{ "name": "老色逼资源|AV", "type": 1, "api": "https://apilsbzy1.com/api.php/provide/vod/" }
 ]
 }
