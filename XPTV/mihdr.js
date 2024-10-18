@@ -20,8 +20,8 @@ const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 
 const appConfig = {
     ver: 1,
-    title: '木偶',
-    site: 'http://mogg.小胡.top',
+    title: '小米',
+    site: 'https://mihdr.top',
     // 定義分類
     tabs: [
         // name 為分類名，ext 可以傳入任意參數由 getCards 接收
@@ -44,7 +44,7 @@ const appConfig = {
             },
         },
         {
-            name: '紀錄片',
+            name: '綜藝',
             ext: {
                 id: 4,
             },
@@ -70,6 +70,7 @@ async function getCards(ext) {
 
     // 定義請求的 URL
     const url = appConfig.site + `/index.php/vod/show/id/${id}/page/${page}.html`
+
     // 使用內置的 http client 發起請求獲取 html
     const { data } = await $fetch.get(url, {
         headers: {
@@ -122,7 +123,7 @@ async function getTracks(ext) {
 
     const playlist = $('.module-player-list .module-row-one')
     playlist.each((_, e) => {
-        const name = $(e).find('.module-row-title h4').text().replace('第1集', '')
+        const name = $(e).find('.module-row-title h4').text().replace('- 第1集', '')
         // 網盤的分享連結
         const panShareUrl = $(e).find('.module-row-title p').text()
         tracks.push({
