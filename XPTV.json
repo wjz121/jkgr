@@ -349,99 +349,91 @@
 			"name": "4k-av",
 			"type": 3,
 			"api": "csp_4kav",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
 		},
 		{
 			"name": "韓劇看看",
 			"type": 3,
 			"api": "csp_hjkk",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hjkk.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hjkk.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hjkk.js"
 		},
 		{
 			"name": "金牌影院",
 			"type": 3,
 			"api": "csp_jpyy",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jpyy.js"
 		},
 		{
 			"name": "燒火電影",
 			"type": 3,
 			"api": "csp_saohuo",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/saohuo.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/saohuo.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/saohuo.js"
 		},
 		{
 			"name": "素白白影視",
 			"type": 3,
 			"api": "csp_subaibai",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/subaibai.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/subaibai.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/subaibai.js"
 		},
 		{
 			"name": "兩個BT",
 			"type": 3,
 			"api": "csp_bttwo",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/bttwo.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/bttwo.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/bttwo.js"
 		},
 		{
 			"name": "NO視頻",
 			"type": 3,
 			"api": "csp_novipnoad",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/novipnoad.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/novipnoad.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/novipnoad.js"
 		},
 		{
 			"name": "星芽短劇",
 			"type": 3,
 			"api": "csp_xingya",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
 		},
 		{
 			"name": "瓜子",
 			"type": 3,
 			"api": "csp_guazi",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/gzys.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/gzys.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/gzys.js"
 		},
 		{
 			"name": "anfuns",
 			"type": 3,
 			"api": "csp_anfuns",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/anfuns.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/anfuns.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/anfuns.js"
 		},
 		{
 			"name": "愛壹帆",
 			"type": 3,
 			"api": "csp_iyftv",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/iyftv.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/iyftv.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/iyftv.js"
 		},
 		{
 			"name": "天天影視",
 			"type": 3,
 			"api": "csp_tiantian",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/tiantian.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/tiantian.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/tiantian.js"
 		},
 		{
 			"name": "囧次元",
 			"type": 3,
 			"api": "csp_jcy",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jcy.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jcy.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jcy.js"
 		},
 		{
 			"name": "hdmoli",
 			"type": 3,
 			"api": "csp_hdmoli",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hdmoli.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hdmoli.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hdmoli.js"
+		},
+		{
+			"name": "nmlive",
+			"type": 3,
+			"api": "csp_nmlive",
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/nmlive.js"
 		},
 		{
 			"name": "MISSAV",
@@ -452,22 +444,19 @@
 			"name": "麻豆社",
 			"type": 3,
 			"api": "csp_madou",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/madou.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/madou.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/madou.js"
 		},
 		{
 			"name": "玩偶姐姐",
 			"type": 3,
 			"api": "csp_hkdoll",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hkdoll.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hkdoll.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hkdoll.js"
 		},
 		{
 			"name": "Hanime1",
 			"type": 3,
 			"api": "csp_Hanime1",
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hanime.js",
-			"ext2": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hanime.js"
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hanime.js"
 		},
 		{
 			"name": "小纸条 | PAN",
@@ -524,6 +513,12 @@
 			"type": 3,
 			"api": "csp_yunpanres",
 			"ext": "https://ghp.ci/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/yunpanres.js"
+		},
+		{
+			"name": "校长影视 | PAN",
+			"type": 3,
+			"api": "csp_xzys",
+			"ext": "https://ghp.ci/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/xzys.js"
 		}
 	]
 }
