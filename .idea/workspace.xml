@@ -6,10 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="6dead0bf-a5bb-4860-b741-c1ffc5cba83a" name="更改" comment="部分修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV.json" beforeDir="false" afterPath="$PROJECT_DIR$/XPTV.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/labipan.js" beforeDir="false" afterPath="$PROJECT_DIR$/XPTV/labipan.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/muou.js" beforeDir="false" afterPath="$PROJECT_DIR$/XPTV/muou.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/nmlive.js" beforeDir="false" afterPath="$PROJECT_DIR$/XPTV/nmlive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsm.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/115share.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/115share.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/feimaolive.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/feimaolive.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/singbox.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/singbox.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tokentemplate.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/tokentemplate.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ucshare.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ucshare.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pg.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar.md5" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,21 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20241018-1331/jsm.json&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20241018-1331/jsm.json&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20241129-1236/jsm.json",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20241129-1236/jsm.json",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -115,15 +119,9 @@
       <workItem from="1729063028160" duration="476000" />
       <workItem from="1729245154674" duration="2427000" />
       <workItem from="1729251978928" duration="532000" />
-      <workItem from="1729947162312" duration="1144000" />
-    </task>
-    <task id="LOCAL-00019" summary="部分修改">
-      <option name="closed" value="true" />
-      <created>1722827403156</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1722827403156</updated>
+      <workItem from="1729947162312" duration="2692000" />
+      <workItem from="1731465697887" duration="77000" />
+      <workItem from="1732856089586" duration="303000" />
     </task>
     <task id="LOCAL-00020" summary="部分修改">
       <option name="closed" value="true" />
@@ -509,7 +507,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729252272492</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1729950897561</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1729950897561</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
