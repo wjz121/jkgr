@@ -6,12 +6,47 @@
   <component name="ChangeListManager">
     <list default="true" id="6dead0bf-a5bb-4860-b741-c1ffc5cba83a" name="更改" comment="部分修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/4khdr.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/4khdr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/97tvs.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/97tvs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/aipanso.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/aipanso.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/alistjar.json" beforeDir="false" afterPath="$PROJECT_DIR$/js/alistjar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/cilixiong.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/cilixiong.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ddys.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ddys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/dydhhy.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/dydhhy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/dygang.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/dygang.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/funletu.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/funletu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/huya.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/huya.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jiyingw.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jiyingw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jiyingwp.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jiyingwp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/kkpans.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/kkpans.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/kuba.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/kuba.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/libvio.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/libvio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/meijumi.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/meijumi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/meijumip.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/meijumip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/meow.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/meow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/mp4us.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/mp4us.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/qimiao.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/qimiao.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/rrdyw.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/rrdyw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/template.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tzfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/tzfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/xb6v.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/xb6v.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/xzys.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/xzys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/yyets.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/yyets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/yyetsp.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/yyetsp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/模板.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/模板.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsm.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/115share.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/115share.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsm2.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/aliproxy.tar.xz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.tar.xz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/aliproxy.tar.xz.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.tar.xz.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/allinone.tar.xz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/allinone.tar.xz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/allinone.tar.xz.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/allinone.tar.xz.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/cheerio.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cheerio.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/clash2singbox.tar.xz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/clash2singbox.tar.xz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/clash2singbox.tar.xz.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/clash2singbox.tar.xz.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/drpy2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/drpy2.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/feimaolive.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/feimaolive.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/singbox.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/singbox.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/tokentemplate.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/tokentemplate.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ucshare.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ucshare.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fty.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fty.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/gbk.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/gbk.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar.md5" afterDir="false" />
     </list>
@@ -40,12 +75,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20241129-1236/jsm.json",
+    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20250112-1029/jsm.json",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20241129-1236/jsm.json",
+    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20250112-1029/jsm.json",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -121,15 +156,8 @@
       <workItem from="1729251978928" duration="532000" />
       <workItem from="1729947162312" duration="2692000" />
       <workItem from="1731465697887" duration="77000" />
-      <workItem from="1732856089586" duration="303000" />
-    </task>
-    <task id="LOCAL-00020" summary="部分修改">
-      <option name="closed" value="true" />
-      <created>1722833808898</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1722833808898</updated>
+      <workItem from="1732856089586" duration="451000" />
+      <workItem from="1736658590255" duration="2153000" />
     </task>
     <task id="LOCAL-00021" summary="部分修改">
       <option name="closed" value="true" />
@@ -515,7 +543,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729950897561</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="部分修改">
+      <option name="closed" value="true" />
+      <created>1732856444418</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1732856444419</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
