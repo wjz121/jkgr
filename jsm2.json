@@ -6,8 +6,7 @@
             "name": "MissAV需挂梯",
             "type": 3,
             "api": "csp_Miss",
-            "searchable": 1,
-			"ext": "https://missav.ws"
+            "searchable": 1
 		},
 		{
       	 "key": "csp_CandyMuj_rou",
