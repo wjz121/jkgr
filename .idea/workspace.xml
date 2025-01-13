@@ -4,34 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dead0bf-a5bb-4860-b741-c1ffc5cba83a" name="更改" comment="部分修改">
+    <list default="true" id="6dead0bf-a5bb-4860-b741-c1ffc5cba83a" name="更改" comment="qq">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/4kav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/anfuns.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/bttwo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/gzys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/hanime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/hdmoli.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/hjkk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/hkdoll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/iyftv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/jcy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/jpyy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/labipan.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/madou.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/mihdr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/muou.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/nanfdj.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/nmlive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/novipnoad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/saohuo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/subaibai.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/tiantian.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/xingya.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/xzys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/yunpanres.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XPTV/yydsys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsm2.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/candymuj.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lib/candymuj.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,15 +122,10 @@
       <workItem from="1736662272090" duration="601000" />
       <workItem from="1736662971646" duration="626000" />
       <workItem from="1736738174398" duration="175000" />
-      <workItem from="1736738357885" duration="375000" />
-    </task>
-    <task id="LOCAL-00024" summary="部分修改">
-      <option name="closed" value="true" />
-      <created>1723538999150</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1723538999150</updated>
+      <workItem from="1736738357885" duration="779000" />
+      <workItem from="1736739153348" duration="122000" />
+      <workItem from="1736739297043" duration="638000" />
+      <workItem from="1736752110701" duration="1043000" />
     </task>
     <task id="LOCAL-00025" summary="部分修改">
       <option name="closed" value="true" />
@@ -540,7 +511,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736662847495</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="qq">
+      <option name="closed" value="true" />
+      <created>1736738899414</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1736738899415</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -560,6 +539,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="部分修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="部分修改" />
+    <MESSAGE value="qq" />
+    <option name="LAST_COMMIT_MESSAGE" value="qq" />
   </component>
 </project>
