@@ -1,5 +1,5 @@
 {
-	"spider":"./candymuj.jar",
+	"spider":"./pg.jar",
 	"sites":[
 		{
             "key": "MissAV",
