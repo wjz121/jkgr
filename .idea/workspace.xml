@@ -7,13 +7,15 @@
     <list default="true" id="6dead0bf-a5bb-4860-b741-c1ffc5cba83a" name="更改" comment="qq">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsm.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/115share.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/115share.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/aliproxy.tar.xz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.tar.xz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/aliproxy.tar.xz.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.tar.xz.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/alishare.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/alishare.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/allinone.tar.xz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/allinone.tar.xz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/allinone.tar.xz.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/allinone.tar.xz.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ffmpeg.dyn.tar.xz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ffmpeg.dyn.tar.xz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/biptv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib/biptv.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/douban.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/douban.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/tokentemplate.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/tokentemplate.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/o_cn.m3u" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pg.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pg.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar.md5" afterDir="false" />
     </list>
@@ -45,13 +47,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20250127-1458/jsm.json",
+    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20250302-1011/jsm.json",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20250127-1458/jsm.json",
+    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20250302-1011/jsm.json",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -151,23 +153,13 @@
       <workItem from="1737292259141" duration="444000" />
       <workItem from="1737292715596" duration="110000" />
       <workItem from="1737292889832" duration="350000" />
-      <workItem from="1737986468982" duration="111000" />
-    </task>
-    <task id="LOCAL-00035" summary="部分修改">
-      <option name="closed" value="true" />
-      <created>1728734246729</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1728734246729</updated>
-    </task>
-    <task id="LOCAL-00036" summary="部分修改">
-      <option name="closed" value="true" />
-      <created>1728735200930</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1728735200930</updated>
+      <workItem from="1737986468982" duration="661000" />
+      <workItem from="1737987163903" duration="106000" />
+      <workItem from="1737987279109" duration="154000" />
+      <workItem from="1737987446586" duration="608000" />
+      <workItem from="1739937877009" duration="583000" />
+      <workItem from="1739938471026" duration="557000" />
+      <workItem from="1740917830106" duration="234000" />
     </task>
     <task id="LOCAL-00037" summary="部分修改">
       <option name="closed" value="true" />
@@ -545,7 +537,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737291873665</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="qq">
+      <option name="closed" value="true" />
+      <created>1737986596892</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1737986596893</updated>
+    </task>
+    <task id="LOCAL-00085" summary="qq">
+      <option name="closed" value="true" />
+      <created>1739938222757</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1739938222757</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
