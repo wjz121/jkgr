@@ -6,16 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6dead0bf-a5bb-4860-b741-c1ffc5cba83a" name="更改" comment="qq">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsm.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsm.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/aliproxy.tar.xz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.tar.xz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/aliproxy.tar.xz.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/aliproxy.tar.xz.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/allinone.tar.xz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/allinone.tar.xz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/allinone.tar.xz.md5" beforeDir="false" afterPath="$PROJECT_DIR$/lib/allinone.tar.xz.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ffmpeg.dyn.tar.xz" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ffmpeg.dyn.tar.xz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/tokentemplate.json" beforeDir="false" afterPath="$PROJECT_DIR$/lib/tokentemplate.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/o_cn.m3u" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pg.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/pg.jar.md5" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,22 +29,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20250127-1458/jsm.json",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "two.files.diff.last.used.file": "C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20250127-1458/jsm.json",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20250127-1458/jsm.json&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/wujianzhuo/Downloads/Telegram Desktop/pg.20250127-1458/jsm.json&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -151,15 +141,10 @@
       <workItem from="1737292259141" duration="444000" />
       <workItem from="1737292715596" duration="110000" />
       <workItem from="1737292889832" duration="350000" />
-      <workItem from="1737986468982" duration="111000" />
-    </task>
-    <task id="LOCAL-00035" summary="部分修改">
-      <option name="closed" value="true" />
-      <created>1728734246729</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1728734246729</updated>
+      <workItem from="1737986468982" duration="661000" />
+      <workItem from="1737987163903" duration="106000" />
+      <workItem from="1737987279109" duration="154000" />
+      <workItem from="1737987446586" duration="608000" />
     </task>
     <task id="LOCAL-00036" summary="部分修改">
       <option name="closed" value="true" />
@@ -545,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737291873665</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="qq">
+      <option name="closed" value="true" />
+      <created>1737986596892</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1737986596893</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
